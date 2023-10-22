@@ -1,0 +1,2 @@
+mango is $1
+mango is one dollar
