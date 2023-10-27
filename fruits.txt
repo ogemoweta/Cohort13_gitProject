@@ -1,4 +1,4 @@
 mango
 apple
 Guava
-cherry
+cherries
