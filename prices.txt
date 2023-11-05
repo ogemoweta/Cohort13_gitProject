@@ -1,3 +1,4 @@
 mango is $1
 mango is one dollar
 apple is 10 CAD
+Orange is 15CAD
